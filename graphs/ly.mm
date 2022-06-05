@@ -1,0 +1,33 @@
+33
+hongshan 0 gushui 1 qinlinglu 2 wuhanlu 3 changanlu 4 shanghaishichang 5 mudanguangchang 6 qilihe 7 wangchenggongyuan 8 jiefanglu 9 zhouwangchengguangchang 10 yingtianmen 11 lijingmen 12 qingniangong 13 jiamaying 14 qimingnanlu 15 tawan 16 shijiawan 17 yangwan 18 erqiaolu 19 mangling 20 guohualu 21 luoyanghuochezhan 22 shachanglu 23 mudanqiao 24 wenboyuan 25 suitangyuan 26 tiyuzhongxin 27 shiminzhijia 28 kaiyuanhu 29 xingluohu 30 longmengaotiezhan 31 balitang 32 gushui 1 hongshan 0 2.364313312329166
+qinlinglu 2 gushui 1 1.8714226694090306
+wuhanlu 3 qinlinglu 2 1.4642434665981618
+changanlu 4 wuhanlu 3 1.1047455769168586
+shanghaishichang 5 changanlu 4 0.8833029562580048
+mudanguangchang 6 shanghaishichang 5 1.4841035875323731
+qilihe 7 mudanguangchang 6 1.1059933613889055
+wangchenggongyuan 8 qilihe 7 1.5685591598987654
+jiefanglu 9 wangchenggongyuan 8 0.9730096392035483
+zhouwangchengguangchang 10 jiefanglu 9 0.7388491078175199
+yingtianmen 11 zhouwangchengguangchang 10 1.2894914427983968
+lijingmen 12 yingtianmen 11 1.3113012921154694
+qingniangong 13 lijingmen 12 1.0740415971279265
+jiamaying 14 qingniangong 13 1.322864289137367
+qimingnanlu 15 jiamaying 14 0.840383923263129
+tawan 16 qimingnanlu 15 1.2378197449752237
+shijiawan 17 tawan 16 1.5863233924086881
+yangwan 18 shijiawan 17 1.8476144269567139
+mangling 20 erqiaolu 19 1.0201450056427663
+guohualu 21 mangling 20 1.468578074650254
+luoyanghuochezhan 22 guohualu 21 1.2485494602478175
+shachanglu 23 luoyanghuochezhan 22 0.741672888845095
+jiefanglu 9 shachanglu 23 0.9164232276940816
+mudanqiao 24 jiefanglu 9 0.9629875944503781
+wenboyuan 25 mudanqiao 24 2.0386860480663227
+suitangyuan 26 wenboyuan 25 1.1309202686672921
+tiyuzhongxin 27 suitangyuan 26 1.394644811830928
+shiminzhijia 28 tiyuzhongxin 27 1.0040782544804823
+kaiyuanhu 29 shiminzhijia 28 0.6820290929755639
+xingluohu 30 kaiyuanhu 29 1.0717854478551967
+longmengaotiezhan 31 xingluohu 30 1.0133436025572555
+balitang 32 longmengaotiezhan 31 1.7070446651733227

@@ -1,0 +1,35 @@
+35
+baoshunlu 0 huashanlu 1 taishanlu 2 hengshanlu 3 longshanlu 4 anshanlu 5 gangwanlu 6 yuanlu 7 wuyishanlu 8 gangyilu 9 tianzhushanlu 10 tianmenshanlu 11 chizhushanlu 12 zheshanlu 13 zheshangongyuan 14 zhongshanbeilu 15 jiuziguangchang 16 huanchengbeilu 17 aotizhongxin 18 honghuashanlu 19 bolanzhongxin 20 wenjindonglu 21 henglangshanlu 22 wuhunanzhan 23 baimashan 24 wenhualu 25 shenshankou 26 wuhuhuochezhan 27 shenshangongyuan 28 yunconglu 29 zhengwuzhongxin 30 haiyanlu 31 huizhoulu 32 mengxilu 33 wanchunhulu 34 huashanlu 1 baoshunlu 0 1.280393382874109
+taishanlu 2 huashanlu 1 1.2421004197981524
+hengshanlu 3 taishanlu 2 0.9788768493973686
+longshanlu 4 hengshanlu 3 1.9332653290771764
+anshanlu 5 longshanlu 4 0.7039307136303592
+gangwanlu 6 anshanlu 5 1.8403555893852037
+yuanlu 7 gangwanlu 6 0.7348704328284417
+wuyishanlu 8 yuanlu 7 1.198447333304537
+gangyilu 9 wuyishanlu 8 1.2955650509166583
+tianzhushanlu 10 gangyilu 9 1.307711204664308
+tianmenshanlu 11 tianzhushanlu 10 0.8955646846932517
+chizhushanlu 12 tianmenshanlu 11 0.8543466076620106
+zheshanlu 13 chizhushanlu 12 1.2515892932706683
+zheshangongyuan 14 zheshanlu 13 0.7551757994442482
+zhongshanbeilu 15 zheshangongyuan 14 0.5217193000754384
+jiuziguangchang 16 zhongshanbeilu 15 1.1473604577850003
+huanchengbeilu 17 jiuziguangchang 16 1.0384940498772364
+aotizhongxin 18 huanchengbeilu 17 1.2860899050757169
+honghuashanlu 19 aotizhongxin 18 1.1234466752068102
+bolanzhongxin 20 honghuashanlu 19 1.0749543708235278
+wenjindonglu 21 bolanzhongxin 20 1.1943571956972536
+henglangshanlu 22 wenjindonglu 21 2.3011324142437455
+wuhunanzhan 23 henglangshanlu 22 1.5525970568746918
+baimashan 24 wuhunanzhan 23 1.1226372544965435
+wenhualu 25 jiuziguangchang 16 0.8700802199214044
+shenshankou 26 wenhualu 25 1.3564607783701927
+wuhuhuochezhan 27 shenshankou 26 1.180067730844828
+shenshangongyuan 28 wuhuhuochezhan 27 1.7221803837109593
+yunconglu 29 shenshangongyuan 28 1.075825756103512
+zhengwuzhongxin 30 yunconglu 29 0.7803309662571182
+haiyanlu 31 zhengwuzhongxin 30 1.1934153387224213
+huizhoulu 32 haiyanlu 31 1.5817789033389738
+mengxilu 33 huizhoulu 32 2.2417438515963894
+wanchunhulu 34 mengxilu 33 1.7983608964251734

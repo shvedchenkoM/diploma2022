@@ -1,0 +1,1 @@
+../cmake-build-debug/Diploma "${file}" > "${file%.mm}.pout"  15.04s user 0.03s system 99% cpu 15.143 total
