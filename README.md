@@ -1,4 +1,6 @@
-# Diploma
-# Diploma
-# diploma2022
-# diploma2022
+This thesis is devoted to the traveling salesman problem. During the work, different types of metro networks were investigated. This paper also considers and applies methods for solving traveling salesman problem on graphs. The restriction of graphs on subway networks has given a certain specificity to the problem described in the paper.
+The aim of the research is to compare the efficiency of different algorithms for solving the "traveling salesman's problem" on different types of subway networks. Also identification of certain characteristics of graphs for which it is more effective to apply different types of algorithms.
+The relevance of the work is that the obtained data can be used to facilitate the analysis during the verification of the effectiveness of existing or future subways or other transport networks.
+With the help of the conducted experiment the obtained results were analyzed and conclusions were made about the efficiency of application of certain algorithms on the certain types of metro networks.
+General characteristics of the work: the work contains an introduction, 5 parts, conclusions and a list of references. Number of pages - 33, number of illustrations - 8, number of sources used - 14.
+Keywords: salesman problem, algorithms, data processing, branch and boundary method, greedy algorithms, dynamic programming, genetics algorithms.
